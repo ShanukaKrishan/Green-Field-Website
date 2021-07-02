@@ -14,7 +14,7 @@ You're sections headers will be used to reference location of destination.
 - [Abstract](#abstract)
 - [OverView](#overview)
 - [License](#license)
-- [Author Info](#author-info)
+
 
 ---
 
@@ -97,12 +97,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Back To The Top](#Lecture Hall Booking For Lectures)
-
----
-
-## Author Info
 
 
 
-[Back To The Top](#Lecture Hall Booking For Lectures)
+
